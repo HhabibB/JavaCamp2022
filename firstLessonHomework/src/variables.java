@@ -1,5 +1,11 @@
 public class variables {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        int ogrenciSayisi = 10;
+        
+        System.out.println("Ogrenci sayisi :" + ogrenciSayisi);
+        System.out.println("Ogrenci sayisi :" + ogrenciSayisi);
+        System.out.println("Ogrenci sayisi :" + ogrenciSayisi);
+        System.out.println("Ogrenci sayisi :" + ogrenciSayisi);
+        System.out.println("Ogrenci sayisi :" + ogrenciSayisi);
     }
 }
