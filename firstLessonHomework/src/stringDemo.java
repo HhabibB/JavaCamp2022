@@ -26,6 +26,8 @@ public class stringDemo {
         //indexOf
         System.out.println(mesaj.indexOf('a'));
 
+
+
         //lastIndexOf
         System.out.println(mesaj.lastIndexOf('a'));
 
