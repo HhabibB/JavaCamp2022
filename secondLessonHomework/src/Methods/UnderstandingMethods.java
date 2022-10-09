@@ -1,3 +1,5 @@
+package Methods;
+
 public class UnderstandingMethods {
     public static void main(String[] args) {
         findNumber();

@@ -1,3 +1,5 @@
+package whatIsClass;
+
 public class CustomerManager {
 
     public void add(){
